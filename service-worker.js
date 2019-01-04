@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sentinent/precache-manifest.07cc1d805ec6fa90838f4dde8a916296.js"
+  "/sentinent/precache-manifest.74509bfa9d434b46b3b62c94c43671b7.js"
 );
 
 workbox.clientsClaim();
